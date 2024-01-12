@@ -2,8 +2,6 @@
 Scientific-Calculator that contains Basic Operations, Trigonometric Operations, Algebraic Operations, Logarithmic Operations 
 
 
-
-
 #include <stdio.h>
 #include <math.h>
 
@@ -178,3 +176,4 @@ double absolute_value(double number) { return fabs(number); }
 // Logarithmic operations
 double logarithm_base_10(double number) { return log10(number); }
 double natural_logarithm(double number) { return log(number); }
+
